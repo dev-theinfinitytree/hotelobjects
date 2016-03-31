@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Login extends CI_Controller {
+class Login extends CLL_Controller {
 	
 	/* Session Check Start */
 	function __construct(){
